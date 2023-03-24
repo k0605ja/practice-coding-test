@@ -19,8 +19,13 @@ DMOJ/문제번호.py
 
 ## 일정표
 
-| 주차	| 문제집명 | 진행 여부 | 칭찬 스티커	|	
-|---|-----|---|---|
-|1|	[Python 배우기 (1~50)](https://www.acmicpc.net/workbook/view/459)  | ➡️ |  |
-|2|                                                              |  `진행중` |      | 
-|3|    DMOJ                                                               |  `예정` |      | 
+| 주차	| 날짜 |문제집명 | 진행 여부 | 칭찬 스티커	|	
+|---|---|-----|---|---|
+|1| 3/11~3/17 |	[Python 배우기 (1~50)](https://www.acmicpc.net/workbook/view/459)  | ➡️ |  |
+|2| 3/18~3/24 | [Python 배우기 (1~50)](https://www.acmicpc.net/workbook/view/459)  |  `완료` |   🍇   | 
+|3| 3/25~3/31 | [포도 두알을 향해](https://www.acmicpc.net/group/workbook/view/17368/55726) |  `예정` |        | 
+|4|
+|5|
+|6|
+|7|
+|8|
